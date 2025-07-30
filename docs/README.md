@@ -10,6 +10,6 @@ Oboe documentation
 - [Releases](https://github.com/google/oboe/releases)
 - [Wiki](https://github.com/google/oboe/wiki)
 
-客制化：
+客制化：直接安装OboeTester_New.apk即可
 1. 对于CPU Load的测试，增加了xrun打印，在测试开始前输入
    logcat | grep CPULoad，在测试结束后会看到最终的xrun值。
